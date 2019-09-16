@@ -286,3 +286,6 @@ Queued events for site test-agro
 [DEBUG] 2019-09-16 11:33:32,022 | /home/satish/Desktop/Testing/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
 Site: test-agro
 Queued events for site test-agro
+[DEBUG] 2019-09-16 11:59:24,229 | /home/satish/Desktop/Testing/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: test-agro
+Queued events for site test-agro
